@@ -2,8 +2,8 @@
 
 .\venv\Scripts\activate
 
-#run this
+#run this next
 
-python init_db.py
+
 python crop_prediction_model.py
 python app.py
