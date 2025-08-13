@@ -1,2 +1,0 @@
-# agrismart
-agrismart project

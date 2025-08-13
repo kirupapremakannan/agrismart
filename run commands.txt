@@ -1,0 +1,9 @@
+# activate the server
+
+.\venv\Scripts\activate
+
+#run this
+
+python init_db.py
+python crop_prediction_model.py
+python app.py
