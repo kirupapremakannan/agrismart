@@ -1,0 +1,2 @@
+-download every file and save it in a folder and open the folder using vs code 
+-then run the commands from the file provided as 'run commands' in the vs code terminal
